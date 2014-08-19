@@ -58,7 +58,7 @@ Ext.define('WinWithin.view.Kapitel2', {
                     'font-weight': 'bold',
                     'background': '#FFF'
                 },
-                html: 'Relevanta eller grundl&ouml;sa negativa tankar'
+                html: '<h1>Relevanta eller grundl&ouml;sa negativa tankar</h1>'
             },{
                 xtype: 'component',
                 padding: 0,

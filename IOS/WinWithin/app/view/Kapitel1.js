@@ -69,7 +69,7 @@ Ext.define('WinWithin.view.Kapitel1', {
                     'font-weight': 'bold',
                     'background': '#FFF'
                 },
-                html: 'Negativa tankar ger obehagliga k&auml;nslop&aring;slag'
+                html: '<h1>Negativa tankar ger obehagliga k&auml;nslop&aring;slag<h1>'
             },{
                 xtype: 'component',
                 padding: 0,

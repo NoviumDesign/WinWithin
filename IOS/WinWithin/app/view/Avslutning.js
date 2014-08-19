@@ -57,7 +57,7 @@ Ext.define('WinWithin.view.Avslutning', {
                     'font-weight': 'bold',
                     'background': '#FFF'
                 },
-                html: 'Avslutning'
+                html: '<h1>Avslutning</h1>'
             },{
                 xtype: 'component',
                 padding: 0,

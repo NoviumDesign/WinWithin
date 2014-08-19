@@ -118,8 +118,9 @@ Ext.define('WinWithin.view.Kapitel2form1', {
                 xtype: 'button',
                 id: 'relevant'+key,
                 style: {
-                    'width': '50%',
-                    'float': 'left'
+                    'width': '46%',
+                    'float': 'left',
+                    'margin-right': '2%'
                 },
                 handler: function(el, ev) {
                     var keyButton = parseInt(el.id.replace('relevant', ''), 10);

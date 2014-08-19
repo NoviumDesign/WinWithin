@@ -72,7 +72,7 @@ Ext.define('WinWithin.view.Kapitel1form', {
             xtype: 'textareafield',
             name: 'obehaglig',
             label: '',
-            placeHolder: 'Obehaglig känsla',
+            placeHolder: 'Obehagliga känslor',
             value: record.get('obehaglig')
         };
         var item = this.add([

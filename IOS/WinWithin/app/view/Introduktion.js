@@ -57,7 +57,7 @@ Ext.define('WinWithin.view.Introduktion', {
                     'font-weight': 'bold',
                     'background': '#FFF'
                 },
-                html: 'Utmana dina tankar- &auml;ndra ditt beteende- m&aring; b&auml;ttre.'
+                html: '<h1>Utmana dina tankar- &auml;ndra ditt beteende- m&aring; b&auml;ttre.</h1>'
             },{
                 xtype: 'component',
                 padding: 0,

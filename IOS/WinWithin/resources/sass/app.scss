@@ -28,6 +28,7 @@ html,body{position:relative;width:100%;height:100%}.x-fullscreen{position:absolu
 }
 .x-menu {
     padding:0px;
+    background-color: rgb(121, 72, 73);
 }
 #bottomToolbar .x-inner.x-toolbar-inner.x-horizontal.x-align-center.x-pack-start.x-layout-box {
     padding-top: 0px;
@@ -40,12 +41,17 @@ html,body{position:relative;width:100%;height:100%}.x-fullscreen{position:absolu
     -moz-border-radius: 6px;
     -ms-border-radius: 6px;
     -o-border-radius: 6px;
+    border-radius: 6px;
     border:0px;
     background: #333333;
 }
-.x-form-fieldset .x-form-fieldset-inner {
+.x-form-fieldset .x-form-fieldset-inner, .x-field-textarea {
     border: 0;
     border-bottom: 1px solid #d9d9d9;
+}
+
+.x-field-textarea:first {
+  border-top: 1px solid #d9d9d9;
 }
 .x-container.x-field-textarea.x-field.x-label-align-left.x-field-clearable.x-form-label-nowrap {
     // border-bottom: 1px solid #d9d9d9;
@@ -81,3 +87,13 @@ html,body{position:relative;width:100%;height:100%}.x-fullscreen{position:absolu
     color: rgb(111, 187, 125);
 }
 
+p {
+    margin-top: 0;
+    margin-bottom: 13px;
+}
+
+h1 {
+  font-size: 1em;
+  font-weight: bold;
+  margin-bottom: 13px;
+}

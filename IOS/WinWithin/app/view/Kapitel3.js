@@ -58,7 +58,7 @@ Ext.define('WinWithin.view.Kapitel3', {
                     'font-weight': 'bold',
                     'background': '#FFF'
                 },
-                html: 'Probleml&ouml;sa eller sl&auml;ppa tanken'
+                html: '<h1>Probleml&ouml;sa eller sl&auml;ppa tanken</h1>'
             },{
                 xtype: 'component',
                 padding: 0,

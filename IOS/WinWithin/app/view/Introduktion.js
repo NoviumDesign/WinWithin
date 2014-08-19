@@ -41,7 +41,7 @@ Ext.define('WinWithin.view.Introduktion', {
                 },
                 handler: this.play,
                 scope: this,
-                html: '<img src="resources/images/play.png" style="width:48px;" />',
+                html: '<img name="introPlay" src="resources/images/play.png" style="width:48px;" />',
                 iconMask: true
             }
             ]

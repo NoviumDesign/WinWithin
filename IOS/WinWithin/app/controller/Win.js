@@ -127,12 +127,28 @@ Ext.define("WinWithin.controller.Win", {
         }
     },
     playIntroduktion: function () {
-        if (this.playToggle) {
+        if(!document.getElementById('multiaudio1').paused) {
+            // Playing
+            var imgs = document.getElementsByName('introPlay');
+            for (var iKey in imgs) {
+                imgs[iKey].src = 'resources/images/play.png';
+            }
+            document.getElementById('multiaudio1').pause();
+        } else {
+            // Not playing
+            var imgs = document.getElementsByName('introPlay');
+            for (var iKey in imgs) {
+                imgs[iKey].src = 'resources/images/paus.png';
+            }
+            document.getElementById('multiaudio1').play();
+        }
+
+        /*if (this.playToggle) {
             this.stopAllPlay.call(this);
         } else {
             document.getElementById('multiaudio1').play();
         }
-        this.playToggle = !this.playToggle;
+        this.playToggle = !this.playToggle; */
     },
     playKapitel1: function() {
         if (this.playToggle) {

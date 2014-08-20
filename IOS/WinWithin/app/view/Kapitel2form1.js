@@ -43,28 +43,7 @@ Ext.define('WinWithin.view.Kapitel2form1', {
             ]
         };
         
-        var bottomToolbar = {
-            xtype: "toolbar",
-            docked: 'bottom',
-            id: 'bottomToolbar',
-            style: {
-                'background': '#495b6a'
-            },
-            items: [
-            {
-                xtype: 'button',
-                style: {
-                    'background': 'none'
-                },
-                handler: this.play,
-                scope: this,
-                html: '<img src="resources/images/play.png" style="width:48px;" />',
-                iconMask: true
-            }
-            ]
-        };
-
-        this.add([topToolbar, bottomToolbar]);
+        this.add([topToolbar]);
     },
     updateWithForm: function() {
         if (this.currentPanel !== undefined) {
@@ -256,6 +235,7 @@ Ext.define('WinWithin.view.Kapitel2form1', {
     onMenu: function () {
         this.fireEvent('saveRelElGrund', this);
     },
+
 
 
     /**

@@ -1620,3 +1620,172 @@ You could find it at the following address https://developer.apple.com/icloud/do
 2014-08-19 16:01:12.987 WinWithin[95369:70b] setting movie path: 
 2014-08-19 16:01:12.991 WinWithin[95369:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
 2014-08-19 16:01:16.372 WinWithin[95369:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/INTRODUKTION.mp3
+Aug 19 16:04:24 Mattiass-Macbook-Pro.local WinWithin[95369] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:04:24 Mattiass-Macbook-Pro.local WinWithin[95369] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:04:24 Mattiass-Macbook-Pro.local WinWithin[95369] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:04:24 Mattiass-Macbook-Pro.local WinWithin[95369] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:04:24 Mattiass-Macbook-Pro.local WinWithin[95369] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:04:24 Mattiass-Macbook-Pro.local WinWithin[95369] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:04:24 Mattiass-Macbook-Pro.local WinWithin[95369] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:04:24 Mattiass-Macbook-Pro.local WinWithin[95369] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-19 16:04:35.457 WinWithin[96345:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 16:04:35.463 WinWithin[96345:70b] Unlimited access to network resources
+2014-08-19 16:04:35.466 WinWithin[96345:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-19 16:04:35.664 WinWithin[96345:70b] Resetting plugins due to page load.
+2014-08-19 16:04:35.843 WinWithin[96345:70b] setting movie path: 
+2014-08-19 16:04:35.852 WinWithin[96345:70b] setting movie path: 
+2014-08-19 16:04:35.861 WinWithin[96345:70b] setting movie path: 
+2014-08-19 16:04:35.869 WinWithin[96345:70b] setting movie path: 
+2014-08-19 16:04:35.876 WinWithin[96345:70b] setting movie path: 
+2014-08-19 16:04:35.886 WinWithin[96345:70b] setting movie path: 
+2014-08-19 16:04:35.893 WinWithin[96345:70b] setting movie path: 
+2014-08-19 16:04:35.901 WinWithin[96345:70b] setting movie path: 
+2014-08-19 16:04:35.905 WinWithin[96345:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+2014-08-19 16:04:39.358 WinWithin[96345:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/INTRODUKTION.mp3
+Aug 19 16:23:49 Mattiass-Macbook-Pro.local WinWithin[96345] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:23:49 Mattiass-Macbook-Pro.local WinWithin[96345] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:23:49 Mattiass-Macbook-Pro.local WinWithin[96345] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:23:49 Mattiass-Macbook-Pro.local WinWithin[96345] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:23:49 Mattiass-Macbook-Pro.local WinWithin[96345] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:23:49 Mattiass-Macbook-Pro.local WinWithin[96345] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:23:49 Mattiass-Macbook-Pro.local WinWithin[96345] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:23:49 Mattiass-Macbook-Pro.local WinWithin[96345] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-19 16:24:03.355 WinWithin[99563:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 16:24:03.390 WinWithin[99563:70b] Unlimited access to network resources
+2014-08-19 16:24:03.400 WinWithin[99563:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-19 16:24:03.800 WinWithin[99563:70b] Resetting plugins due to page load.
+2014-08-19 16:24:04.115 WinWithin[99563:70b] setting movie path: 
+2014-08-19 16:24:04.127 WinWithin[99563:70b] setting movie path: 
+2014-08-19 16:24:04.134 WinWithin[99563:70b] setting movie path: 
+2014-08-19 16:24:04.141 WinWithin[99563:70b] setting movie path: 
+2014-08-19 16:24:04.149 WinWithin[99563:70b] setting movie path: 
+2014-08-19 16:24:04.156 WinWithin[99563:70b] setting movie path: 
+2014-08-19 16:24:04.164 WinWithin[99563:70b] setting movie path: 
+2014-08-19 16:24:04.171 WinWithin[99563:70b] setting movie path: 
+2014-08-19 16:24:04.180 WinWithin[99563:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+2014-08-19 16:24:32.339 WinWithin[99563:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/INTRODUKTION.mp3
+2014-08-19 16:25:24.731 WinWithin[99563:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/KAPITEL1.mp3
+2014-08-19 16:25:46.864 WinWithin[99563:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/KAPITEL2.mp3
+Aug 19 16:27:29 Mattiass-Macbook-Pro.local WinWithin[99563] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:27:29 Mattiass-Macbook-Pro.local WinWithin[99563] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:27:29 Mattiass-Macbook-Pro.local WinWithin[99563] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:27:29 Mattiass-Macbook-Pro.local WinWithin[99563] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:27:29 Mattiass-Macbook-Pro.local WinWithin[99563] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:27:29 Mattiass-Macbook-Pro.local WinWithin[99563] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:27:29 Mattiass-Macbook-Pro.local WinWithin[99563] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:27:29 Mattiass-Macbook-Pro.local WinWithin[99563] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-19 16:27:42.719 WinWithin[476:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 16:27:42.725 WinWithin[476:70b] Unlimited access to network resources
+2014-08-19 16:27:42.727 WinWithin[476:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-19 16:27:42.907 WinWithin[476:70b] Resetting plugins due to page load.
+2014-08-19 16:27:43.082 WinWithin[476:70b] setting movie path: 
+2014-08-19 16:27:43.091 WinWithin[476:70b] setting movie path: 
+2014-08-19 16:27:43.100 WinWithin[476:70b] setting movie path: 
+2014-08-19 16:27:43.109 WinWithin[476:70b] setting movie path: 
+2014-08-19 16:27:43.117 WinWithin[476:70b] setting movie path: 
+2014-08-19 16:27:43.127 WinWithin[476:70b] setting movie path: 
+2014-08-19 16:27:43.135 WinWithin[476:70b] setting movie path: 
+2014-08-19 16:27:43.145 WinWithin[476:70b] setting movie path: 
+2014-08-19 16:27:43.169 WinWithin[476:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+2014-08-19 16:27:46.784 WinWithin[476:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/KAPITEL2.mp3
+2014-08-19 16:31:17.556 WinWithin[476:4137] 16:31:17.556 WARNING:   235: Default audio device changed. Restart the simulator to have it use the newly-selected device.
+2014-08-19 16:31:17.575 WinWithin[476:4137] 16:31:17.575 WARNING:   235: Default audio device changed. Restart the simulator to have it use the newly-selected device.
+2014-08-19 16:31:17.576 WinWithin[476:4137] 16:31:17.576 WARNING:   235: Default audio device changed. Restart the simulator to have it use the newly-selected device.
+Aug 19 16:31:25 Mattiass-Macbook-Pro.local WinWithin[476] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:31:25 Mattiass-Macbook-Pro.local WinWithin[476] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:31:25 Mattiass-Macbook-Pro.local WinWithin[476] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:31:25 Mattiass-Macbook-Pro.local WinWithin[476] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:31:25 Mattiass-Macbook-Pro.local WinWithin[476] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:31:25 Mattiass-Macbook-Pro.local WinWithin[476] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:31:25 Mattiass-Macbook-Pro.local WinWithin[476] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 19 16:31:25 Mattiass-Macbook-Pro.local WinWithin[476] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-19 16:31:35.196 WinWithin[1415:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 16:31:35.202 WinWithin[1415:70b] Unlimited access to network resources
+2014-08-19 16:31:35.205 WinWithin[1415:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-19 16:31:35.332 WinWithin[1415:70b] Resetting plugins due to page load.
+2014-08-19 16:31:35.485 WinWithin[1415:70b] setting movie path: 
+2014-08-19 16:31:35.494 WinWithin[1415:70b] setting movie path: 
+2014-08-19 16:31:35.502 WinWithin[1415:70b] setting movie path: 
+2014-08-19 16:31:35.509 WinWithin[1415:70b] setting movie path: 
+2014-08-19 16:31:35.518 WinWithin[1415:70b] setting movie path: 
+2014-08-19 16:31:35.526 WinWithin[1415:70b] setting movie path: 
+2014-08-19 16:31:35.534 WinWithin[1415:70b] setting movie path: 
+2014-08-19 16:31:35.542 WinWithin[1415:70b] setting movie path: 
+2014-08-19 16:31:35.547 WinWithin[1415:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+2014-08-19 16:31:40.145 WinWithin[1415:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/KAPITEL2.mp3
+2014-08-19 16:31:45.946 WinWithin[1415:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/UTMANING1.mp3
+2014-08-20 06:35:07.564 WinWithin[70924:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 06:35:07.605 WinWithin[70924:70b] Unlimited access to network resources
+2014-08-20 06:35:07.611 WinWithin[70924:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-20 06:35:08.084 WinWithin[70924:70b] Resetting plugins due to page load.
+2014-08-20 06:35:08.417 WinWithin[70924:70b] setting movie path: 
+2014-08-20 06:35:08.433 WinWithin[70924:70b] setting movie path: 
+2014-08-20 06:35:08.442 WinWithin[70924:70b] setting movie path: 
+2014-08-20 06:35:08.449 WinWithin[70924:70b] setting movie path: 
+2014-08-20 06:35:08.458 WinWithin[70924:70b] setting movie path: 
+2014-08-20 06:35:08.465 WinWithin[70924:70b] setting movie path: 
+2014-08-20 06:35:08.475 WinWithin[70924:70b] setting movie path: 
+2014-08-20 06:35:08.483 WinWithin[70924:70b] setting movie path: 
+2014-08-20 06:35:08.544 WinWithin[70924:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+2014-08-20 06:35:16.949 WinWithin[70924:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/KAPITEL2.mp3
+Aug 20 06:37:29 Mattiass-Macbook-Pro.local WinWithin[70924] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:37:29 Mattiass-Macbook-Pro.local WinWithin[70924] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:37:29 Mattiass-Macbook-Pro.local WinWithin[70924] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:37:29 Mattiass-Macbook-Pro.local WinWithin[70924] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:37:29 Mattiass-Macbook-Pro.local WinWithin[70924] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:37:29 Mattiass-Macbook-Pro.local WinWithin[70924] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:37:29 Mattiass-Macbook-Pro.local WinWithin[70924] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:37:29 Mattiass-Macbook-Pro.local WinWithin[70924] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-20 06:37:41.471 WinWithin[71571:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 06:37:41.477 WinWithin[71571:70b] Unlimited access to network resources
+2014-08-20 06:37:41.479 WinWithin[71571:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-20 06:37:41.662 WinWithin[71571:70b] Resetting plugins due to page load.
+2014-08-20 06:37:41.831 WinWithin[71571:70b] setting movie path: 
+2014-08-20 06:37:41.842 WinWithin[71571:70b] setting movie path: 
+2014-08-20 06:37:41.851 WinWithin[71571:70b] setting movie path: 
+2014-08-20 06:37:41.859 WinWithin[71571:70b] setting movie path: 
+2014-08-20 06:37:41.871 WinWithin[71571:70b] setting movie path: 
+2014-08-20 06:37:41.879 WinWithin[71571:70b] setting movie path: 
+2014-08-20 06:37:41.889 WinWithin[71571:70b] setting movie path: 
+2014-08-20 06:37:41.899 WinWithin[71571:70b] setting movie path: 
+2014-08-20 06:37:41.920 WinWithin[71571:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+2014-08-20 06:37:50.668 WinWithin[71571:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/UTMANING1.mp3
+2014-08-20 06:38:07.194 WinWithin[71571:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/KAPITEL3.mp3
+2014-08-20 06:38:15.204 WinWithin[71571:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/UTMANING2.mp3
+2014-08-20 06:38:56.707 WinWithin[71571:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/SLUTORD.mp3

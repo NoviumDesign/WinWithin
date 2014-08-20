@@ -42,9 +42,28 @@ Ext.define('WinWithin.view.Kapitel2form2', {
             ]
         };
 
-        this.add([
-            topToolbar
-        ]);
+        var bottomToolbar = {
+            xtype: "toolbar",
+            docked: 'bottom',
+            id: 'bottomToolbar',
+            style: {
+                'background': '#495b6a'
+            },
+            items: [
+            {
+                xtype: 'button',
+                style: {
+                    'background': 'none'
+                },
+                handler: this.play,
+                scope: this,
+                html: '<img name="kap2form1Play" src="resources/images/play.png" style="width:48px;" />',
+                iconMask: true
+            }
+            ]
+        };
+
+        this.add([topToolbar, bottomToolbar]);
     },
     updateWithForm: function() {
         if (this.currentPanel !== undefined) {

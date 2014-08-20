@@ -41,7 +41,7 @@ Ext.define('WinWithin.view.Kapitel3', {
                 },
                 handler: this.play,
                 scope: this,
-                html: '<img src="resources/images/play.png" style="width:48px;" />',
+                html: '<img name="kap3Play" src="resources/images/play.png" style="width:48px;" />',
                 iconMask: true
             }
             ]

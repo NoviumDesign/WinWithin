@@ -40,7 +40,7 @@ Ext.define('WinWithin.view.Avslutning', {
                 },
                 handler: this.play,
                 scope: this,
-                html: '<img src="resources/images/play.png" style="width:48px;" />',
+                html: '<img name="avslPlay" src="resources/images/play.png" style="width:48px;" />',
                 iconMask: true
             }
             ]

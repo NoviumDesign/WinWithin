@@ -61,6 +61,7 @@ Ext.define("WinWithin.controller.Win", {
             kapitel2form1: {
                 saveRelElGrund : 'saveRelElGrund',
                 deleteRelevantCommand: 'deleteRelevantCommand'
+
             },
             kapitel2form2: {
                 saveBevis: 'saveBevis',
@@ -92,34 +93,70 @@ Ext.define("WinWithin.controller.Win", {
              this.audio.stop();
              this.audio.release();
         } else {
+            // Introduktion
             if(!document.getElementById('multiaudio1').paused) {
+                var imgs = document.getElementsByName('introPlay');
+                for (var iKey in imgs) {
+                    imgs[iKey].src = 'resources/images/play.png';
+                }
                 document.getElementById('multiaudio1').pause();
                 document.getElementById('multiaudio1').currentTime = 0;
             }
+            // Kapitel 1
             if(!document.getElementById('multiaudio2').paused) {
+                var imgs = document.getElementsByName('kap1Play');
+                for (var iKey in imgs) {
+                    imgs[iKey].src = 'resources/images/play.png';
+                }
                 document.getElementById('multiaudio2').pause();
                 document.getElementById('multiaudio2').currentTime = 0;
             }
+            // Kapitel 2
             if(!document.getElementById('multiaudio3').paused) {
+                var imgs = document.getElementsByName('kap2Play');
+                for (var iKey in imgs) {
+                    imgs[iKey].src = 'resources/images/play.png';
+                }
                 document.getElementById('multiaudio3').pause();
                 document.getElementById('multiaudio3').currentTime = 0;
             }
+            // Kapitel 3
             if(!document.getElementById('multiaudio4').paused) {
+                var imgs = document.getElementsByName('kap3Play');
+                for (var iKey in imgs) {
+                    imgs[iKey].src = 'resources/images/play.png';
+                }
                 document.getElementById('multiaudio4').pause();
                 document.getElementById('multiaudio4').currentTime = 0;
             }
+            // Avslutning
             if(!document.getElementById('multiaudio5').paused) {
+                var imgs = document.getElementsByName('avslPlay');
+                for (var iKey in imgs) {
+                    imgs[iKey].src = 'resources/images/play.png';
+                }
                 document.getElementById('multiaudio5').pause();
                 document.getElementById('multiaudio5').currentTime = 0;
             }
+            // Kapitel 2 utmaning
             if(!document.getElementById('multiaudio6').paused) {
+                var imgs = document.getElementsByName('kap2form1Play');
+                for (var iKey in imgs) {
+                    imgs[iKey].src = 'resources/images/play.png';
+                }
                 document.getElementById('multiaudio6').pause();
                 document.getElementById('multiaudio6').currentTime = 0;
             }
+            // Kapitel 3 utmaning
             if(!document.getElementById('multiaudio7').paused) {
+                var imgs = document.getElementsByName('kap3formPlay');
+                for (var iKey in imgs) {
+                    imgs[iKey].src = 'resources/images/play.png';
+                }
                 document.getElementById('multiaudio7').pause();
                 document.getElementById('multiaudio7').currentTime = 0;
             }
+            // Jingel
             if(!document.getElementById('multiaudio8').paused) {
                 document.getElementById('multiaudio8').pause();
                 document.getElementById('multiaudio8').currentTime = 0;
@@ -142,61 +179,114 @@ Ext.define("WinWithin.controller.Win", {
             }
             document.getElementById('multiaudio1').play();
         }
-
-        /*if (this.playToggle) {
-            this.stopAllPlay.call(this);
-        } else {
-            document.getElementById('multiaudio1').play();
-        }
-        this.playToggle = !this.playToggle; */
     },
     playKapitel1: function() {
-        if (this.playToggle) {
-            this.stopAllPlay.call(this);
+        // kap1Play
+        if(!document.getElementById('multiaudio2').paused) {
+            // Playing
+            var imgs = document.getElementsByName('kap1Play');
+            for (var iKey in imgs) {
+                imgs[iKey].src = 'resources/images/play.png';
+            }
+            document.getElementById('multiaudio2').pause();
         } else {
+            // Not playing
+            var imgs = document.getElementsByName('kap1Play');
+            for (var iKey in imgs) {
+                imgs[iKey].src = 'resources/images/paus.png';
+            }
             document.getElementById('multiaudio2').play();
         }
-        this.playToggle = !this.playToggle;
     },
     playKapitel2: function (){
-        if (this.playToggle) {
-            this.stopAllPlay.call(this);
+        // kap2Play
+        if(!document.getElementById('multiaudio3').paused) {
+            // Playing
+            var imgs = document.getElementsByName('kap2Play');
+            for (var iKey in imgs) {
+                imgs[iKey].src = 'resources/images/play.png';
+            }
+            document.getElementById('multiaudio3').pause();
         } else {
+            // Not playing
+            var imgs = document.getElementsByName('kap2Play');
+            for (var iKey in imgs) {
+                imgs[iKey].src = 'resources/images/paus.png';
+            }
             document.getElementById('multiaudio3').play();
         }
-        this.playToggle = !this.playToggle;
     },
     playChallenge22: function() {
-        if (this.playToggle) {
-            this.stopAllPlay.call(this);
+        // kap2form1Play
+        if(!document.getElementById('multiaudio6').paused) {
+            // Playing
+            var imgs = document.getElementsByName('kap2form1Play');
+            for (var iKey in imgs) {
+                imgs[iKey].src = 'resources/images/play.png';
+            }
+            document.getElementById('multiaudio6').pause();
         } else {
+            // Not playing
+            var imgs = document.getElementsByName('kap2form1Play');
+            for (var iKey in imgs) {
+                imgs[iKey].src = 'resources/images/paus.png';
+            }
             document.getElementById('multiaudio6').play();
         }
-        this.playToggle = !this.playToggle;
     },
     playKapitel3: function() {
-        if (this.playToggle) {
-            this.stopAllPlay.call(this);
+        // kap3Play
+        if(!document.getElementById('multiaudio4').paused) {
+            // Playing
+            var imgs = document.getElementsByName('kap3Play');
+            for (var iKey in imgs) {
+                imgs[iKey].src = 'resources/images/play.png';
+            }
+            document.getElementById('multiaudio4').pause();
         } else {
+            // Not playing
+            var imgs = document.getElementsByName('kap3Play');
+            for (var iKey in imgs) {
+                imgs[iKey].src = 'resources/images/paus.png';
+            }
             document.getElementById('multiaudio4').play();
         }
-        this.playToggle = !this.playToggle;
     },
     playChallenge3: function() {
-        if (this.playToggle) {
-            this.stopAllPlay.call(this);
+        // kap3formPlay
+        if(!document.getElementById('multiaudio7').paused) {
+            // Playing
+            var imgs = document.getElementsByName('kap3formPlay');
+            for (var iKey in imgs) {
+                imgs[iKey].src = 'resources/images/play.png';
+            }
+            document.getElementById('multiaudio7').pause();
         } else {
+            // Not playing
+            var imgs = document.getElementsByName('kap3formPlay');
+            for (var iKey in imgs) {
+                imgs[iKey].src = 'resources/images/paus.png';
+            }
             document.getElementById('multiaudio7').play();
         }
-        this.playToggle = !this.playToggle;
     },
     playAvslutning: function() {
-        if (this.playToggle) {
-            this.stopAllPlay.call(this);
+        // avslPlay
+        if(!document.getElementById('multiaudio5').paused) {
+            // Playing
+            var imgs = document.getElementsByName('avslPlay');
+            for (var iKey in imgs) {
+                imgs[iKey].src = 'resources/images/play.png';
+            }
+            document.getElementById('multiaudio5').pause();
         } else {
+            // Not playing
+            var imgs = document.getElementsByName('avslPlay');
+            for (var iKey in imgs) {
+                imgs[iKey].src = 'resources/images/paus.png';
+            }
             document.getElementById('multiaudio5').play();
         }
-        this.playToggle = !this.playToggle;
     },
     avtal: function(){
         var now = new Date();
@@ -274,6 +364,8 @@ Ext.define("WinWithin.controller.Win", {
         }
     },
     gotoIntroduktion: function() {
+        this.stopAllPlay.call(this);
+
         var introduktion = this.getIntroduktion();
         // load data?
         Ext.Viewport.animateActiveItem(introduktion, { type: 'slide', direction: 'left' });
@@ -284,6 +376,8 @@ Ext.define("WinWithin.controller.Win", {
      * @return {[type]} [description]
      */
     gotoKapitel1: function() {
+        this.stopAllPlay.call(this);
+
         var kapitel1 = this.getKapitel1();
         var kapitel1form = this.getKapitel1form();
         kapitel1form.backEvent = 'backToKapitel1';
@@ -291,6 +385,8 @@ Ext.define("WinWithin.controller.Win", {
         Ext.Viewport.animateActiveItem(kapitel1, { type: 'slide', direction: 'left' });
     },
     gotoNegTank: function(record) {
+        this.stopAllPlay.call(this);
+
         var kapitel1form = this.getKapitel1form();
             
         if (!record.hasOwnProperty('internalId')) {
@@ -363,6 +459,7 @@ Ext.define("WinWithin.controller.Win", {
         }
     },
     backToKapitel1: function() {
+        this.stopAllPlay.call(this);
         var kapitel1 = this.getKapitel1();
         Ext.Viewport.animateActiveItem(kapitel1, { type: 'slide', direction: 'right' });
     },
@@ -372,6 +469,8 @@ Ext.define("WinWithin.controller.Win", {
      * @return {[type]} [description]
      */
     gotoKapitel2: function() {
+        this.stopAllPlay.call(this);
+
         var kapitel2 = this.getKapitel2();
         var kapitel2form1 = this.getKapitel2form1();
         var kapitel2form2 = this.getKapitel2form2();
@@ -380,6 +479,8 @@ Ext.define("WinWithin.controller.Win", {
         Ext.Viewport.animateActiveItem(kapitel2, { type: 'slide', direction: 'left' });
     },
     gotoBevis: function(record) {
+        this.stopAllPlay.call(this);
+
         var kapitel2form2 = this.getKapitel2form2();
         
         if (!record.hasOwnProperty('internalId')) {
@@ -471,6 +572,7 @@ Ext.define("WinWithin.controller.Win", {
         }
     },
     gotoRelevant: function(record) {
+        this.stopAllPlay.call(this);
         var kapitel2form1 = this.getKapitel2form1();
 
         if (!record.hasOwnProperty('internalId')) {
@@ -548,6 +650,7 @@ Ext.define("WinWithin.controller.Win", {
         }
     },
     backToKapitel2: function() {
+        this.stopAllPlay.call(this);
         var kapitel2 = this.getKapitel2();
         Ext.Viewport.animateActiveItem(kapitel2, { type: 'slide', direction: 'right' });
     },
@@ -557,12 +660,14 @@ Ext.define("WinWithin.controller.Win", {
      * @return {[type]} [description]
      */
     gotoKapitel3: function() {
+        this.stopAllPlay.call(this);
         var kapitel3 = this.getKapitel3();
         var kapitel3form = this.getKapitel3form();
         kapitel3form.backEvent = 'backToKapitel3';
         Ext.Viewport.animateActiveItem(kapitel3, { type: 'slide', direction: 'left' });
     },
     gotoProblem: function(record) {
+        this.stopAllPlay.call(this);
         var kapitel3form = this.getKapitel3form();
 
         if (!record.hasOwnProperty('internalId')) {
@@ -645,20 +750,24 @@ Ext.define("WinWithin.controller.Win", {
         }
     },
     backToKapitel3: function() {
+        this.stopAllPlay.call(this);
         var kapitel3 = this.getKapitel3();
         Ext.Viewport.animateActiveItem(kapitel3, { type: 'slide', direction: 'right' });
     },
     gotoAvslutning: function() {
+        this.stopAllPlay.call(this);
         var avslutning = this.getAvslutning();
         // load data?
         Ext.Viewport.animateActiveItem(avslutning, { type: 'slide', direction: 'left' });
     },
     gotoUtmaningar: function() {
+        this.stopAllPlay.call(this);
         var utmaningar = this.getUtmaningar();
         utmaningar.refresh();
         Ext.Viewport.animateActiveItem(utmaningar, { type: 'slide', direction: 'left' });
     },
     backToUtmaningar: function() {
+        this.stopAllPlay.call(this);
         var utmaningar = this.getUtmaningar();
         utmaningar.refresh();
         Ext.Viewport.animateActiveItem(utmaningar, { type: 'slide', direction: 'right' });

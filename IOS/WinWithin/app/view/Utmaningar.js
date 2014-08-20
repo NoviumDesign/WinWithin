@@ -90,7 +90,9 @@ Ext.define('WinWithin.view.Utmaningar', {
                 },
                 data: listData,
                 listeners: {
-                    disclose: { fn: this.onDisclose, scope: this }
+                    scope: this,
+                    //disclose: this.onDisclose,
+                    itemtap: this.onTap
                 }
             };
             
@@ -106,7 +108,10 @@ Ext.define('WinWithin.view.Utmaningar', {
             this.add([panel]);
         }
     },
-    onDisclose: function (list, record, target, index, evt, options) {
+    // onDisclose: function (list, record, target, index, evt, options) {
+    //     this.fireEvent('gotoEdit', this, record);
+    // },
+    onTap: function (list, index, target, record, evt, options) {
         this.fireEvent('gotoEdit', this, record);
     },
     onMenu: function () {

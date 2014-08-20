@@ -1789,3 +1789,328 @@ You could find it at the following address https://developer.apple.com/icloud/do
 2014-08-20 06:38:07.194 WinWithin[71571:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/KAPITEL3.mp3
 2014-08-20 06:38:15.204 WinWithin[71571:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/UTMANING2.mp3
 2014-08-20 06:38:56.707 WinWithin[71571:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/SLUTORD.mp3
+Aug 20 06:54:06 Mattiass-Macbook-Pro.local WinWithin[71571] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:54:06 Mattiass-Macbook-Pro.local WinWithin[71571] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:54:06 Mattiass-Macbook-Pro.local WinWithin[71571] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:54:06 Mattiass-Macbook-Pro.local WinWithin[71571] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:54:06 Mattiass-Macbook-Pro.local WinWithin[71571] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:54:06 Mattiass-Macbook-Pro.local WinWithin[71571] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:54:06 Mattiass-Macbook-Pro.local WinWithin[71571] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:54:06 Mattiass-Macbook-Pro.local WinWithin[71571] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-20 06:54:20.512 WinWithin[74342:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 06:54:20.534 WinWithin[74342:70b] Unlimited access to network resources
+2014-08-20 06:54:20.537 WinWithin[74342:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-20 06:54:20.787 WinWithin[74342:70b] Resetting plugins due to page load.
+2014-08-20 06:54:20.957 WinWithin[74342:70b] setting movie path: 
+2014-08-20 06:54:20.967 WinWithin[74342:70b] setting movie path: 
+2014-08-20 06:54:20.975 WinWithin[74342:70b] setting movie path: 
+2014-08-20 06:54:20.981 WinWithin[74342:70b] setting movie path: 
+2014-08-20 06:54:20.989 WinWithin[74342:70b] setting movie path: 
+2014-08-20 06:54:20.997 WinWithin[74342:70b] setting movie path: 
+2014-08-20 06:54:21.005 WinWithin[74342:70b] setting movie path: 
+2014-08-20 06:54:21.013 WinWithin[74342:70b] setting movie path: 
+2014-08-20 06:54:21.049 WinWithin[74342:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+Aug 20 06:57:01 Mattiass-Macbook-Pro.local WinWithin[74342] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:57:01 Mattiass-Macbook-Pro.local WinWithin[74342] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:57:01 Mattiass-Macbook-Pro.local WinWithin[74342] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:57:01 Mattiass-Macbook-Pro.local WinWithin[74342] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:57:01 Mattiass-Macbook-Pro.local WinWithin[74342] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:57:01 Mattiass-Macbook-Pro.local WinWithin[74342] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:57:01 Mattiass-Macbook-Pro.local WinWithin[74342] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:57:01 Mattiass-Macbook-Pro.local WinWithin[74342] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-20 06:57:13.737 WinWithin[75016:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 06:57:13.811 WinWithin[75016:70b] Unlimited access to network resources
+2014-08-20 06:57:13.819 WinWithin[75016:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-20 06:57:14.219 WinWithin[75016:70b] Resetting plugins due to page load.
+2014-08-20 06:57:14.557 WinWithin[75016:70b] setting movie path: 
+2014-08-20 06:57:14.572 WinWithin[75016:70b] setting movie path: 
+2014-08-20 06:57:14.580 WinWithin[75016:70b] setting movie path: 
+2014-08-20 06:57:14.587 WinWithin[75016:70b] setting movie path: 
+2014-08-20 06:57:14.594 WinWithin[75016:70b] setting movie path: 
+2014-08-20 06:57:14.602 WinWithin[75016:70b] setting movie path: 
+2014-08-20 06:57:14.609 WinWithin[75016:70b] setting movie path: 
+2014-08-20 06:57:14.617 WinWithin[75016:70b] setting movie path: 
+2014-08-20 06:57:14.624 WinWithin[75016:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+Aug 20 06:58:47 Mattiass-Macbook-Pro.local WinWithin[75016] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:58:47 Mattiass-Macbook-Pro.local WinWithin[75016] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:58:47 Mattiass-Macbook-Pro.local WinWithin[75016] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:58:47 Mattiass-Macbook-Pro.local WinWithin[75016] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:58:47 Mattiass-Macbook-Pro.local WinWithin[75016] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:58:47 Mattiass-Macbook-Pro.local WinWithin[75016] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:58:47 Mattiass-Macbook-Pro.local WinWithin[75016] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 06:58:47 Mattiass-Macbook-Pro.local WinWithin[75016] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-20 06:58:57.138 WinWithin[75515:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 06:58:57.144 WinWithin[75515:70b] Unlimited access to network resources
+2014-08-20 06:58:57.146 WinWithin[75515:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-20 06:58:57.268 WinWithin[75515:70b] Resetting plugins due to page load.
+2014-08-20 06:58:57.433 WinWithin[75515:70b] setting movie path: 
+2014-08-20 06:58:57.442 WinWithin[75515:70b] setting movie path: 
+2014-08-20 06:58:57.449 WinWithin[75515:70b] setting movie path: 
+2014-08-20 06:58:57.457 WinWithin[75515:70b] setting movie path: 
+2014-08-20 06:58:57.465 WinWithin[75515:70b] setting movie path: 
+2014-08-20 06:58:57.472 WinWithin[75515:70b] setting movie path: 
+2014-08-20 06:58:57.482 WinWithin[75515:70b] setting movie path: 
+2014-08-20 06:58:57.489 WinWithin[75515:70b] setting movie path: 
+2014-08-20 06:58:57.515 WinWithin[75515:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+Aug 20 07:00:59 Mattiass-Macbook-Pro.local WinWithin[75515] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:00:59 Mattiass-Macbook-Pro.local WinWithin[75515] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:00:59 Mattiass-Macbook-Pro.local WinWithin[75515] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:00:59 Mattiass-Macbook-Pro.local WinWithin[75515] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:00:59 Mattiass-Macbook-Pro.local WinWithin[75515] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:00:59 Mattiass-Macbook-Pro.local WinWithin[75515] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:00:59 Mattiass-Macbook-Pro.local WinWithin[75515] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:00:59 Mattiass-Macbook-Pro.local WinWithin[75515] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-20 07:01:15.452 WinWithin[76117:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 07:01:15.458 WinWithin[76117:70b] Unlimited access to network resources
+2014-08-20 07:01:15.461 WinWithin[76117:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-20 07:01:15.575 WinWithin[76117:70b] Resetting plugins due to page load.
+2014-08-20 07:01:15.716 WinWithin[76117:70b] setting movie path: 
+2014-08-20 07:01:15.725 WinWithin[76117:70b] setting movie path: 
+2014-08-20 07:01:15.734 WinWithin[76117:70b] setting movie path: 
+2014-08-20 07:01:15.742 WinWithin[76117:70b] setting movie path: 
+2014-08-20 07:01:15.749 WinWithin[76117:70b] setting movie path: 
+2014-08-20 07:01:15.757 WinWithin[76117:70b] setting movie path: 
+2014-08-20 07:01:15.766 WinWithin[76117:70b] setting movie path: 
+2014-08-20 07:01:15.773 WinWithin[76117:70b] setting movie path: 
+2014-08-20 07:01:15.796 WinWithin[76117:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+Aug 20 07:02:45 Mattiass-Macbook-Pro.local WinWithin[76117] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:02:45 Mattiass-Macbook-Pro.local WinWithin[76117] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:02:45 Mattiass-Macbook-Pro.local WinWithin[76117] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:02:45 Mattiass-Macbook-Pro.local WinWithin[76117] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:02:45 Mattiass-Macbook-Pro.local WinWithin[76117] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:02:45 Mattiass-Macbook-Pro.local WinWithin[76117] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:02:45 Mattiass-Macbook-Pro.local WinWithin[76117] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:02:45 Mattiass-Macbook-Pro.local WinWithin[76117] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-20 07:02:55.745 WinWithin[76600:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 07:02:55.751 WinWithin[76600:70b] Unlimited access to network resources
+2014-08-20 07:02:55.753 WinWithin[76600:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-20 07:02:55.860 WinWithin[76600:70b] Resetting plugins due to page load.
+2014-08-20 07:02:56.013 WinWithin[76600:70b] setting movie path: 
+2014-08-20 07:02:56.023 WinWithin[76600:70b] setting movie path: 
+2014-08-20 07:02:56.030 WinWithin[76600:70b] setting movie path: 
+2014-08-20 07:02:56.037 WinWithin[76600:70b] setting movie path: 
+2014-08-20 07:02:56.047 WinWithin[76600:70b] setting movie path: 
+2014-08-20 07:02:56.054 WinWithin[76600:70b] setting movie path: 
+2014-08-20 07:02:56.062 WinWithin[76600:70b] setting movie path: 
+2014-08-20 07:02:56.069 WinWithin[76600:70b] setting movie path: 
+2014-08-20 07:02:56.074 WinWithin[76600:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+Aug 20 07:04:14 Mattiass-Macbook-Pro.local WinWithin[76600] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:04:14 Mattiass-Macbook-Pro.local WinWithin[76600] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:04:14 Mattiass-Macbook-Pro.local WinWithin[76600] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:04:14 Mattiass-Macbook-Pro.local WinWithin[76600] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:04:14 Mattiass-Macbook-Pro.local WinWithin[76600] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:04:14 Mattiass-Macbook-Pro.local WinWithin[76600] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:04:14 Mattiass-Macbook-Pro.local WinWithin[76600] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:04:14 Mattiass-Macbook-Pro.local WinWithin[76600] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-20 07:04:22.030 WinWithin[77055:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 07:04:22.037 WinWithin[77055:70b] Unlimited access to network resources
+2014-08-20 07:04:22.040 WinWithin[77055:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-20 07:04:22.199 WinWithin[77055:70b] Resetting plugins due to page load.
+2014-08-20 07:04:22.370 WinWithin[77055:70b] setting movie path: 
+2014-08-20 07:04:22.379 WinWithin[77055:70b] setting movie path: 
+2014-08-20 07:04:22.388 WinWithin[77055:70b] setting movie path: 
+2014-08-20 07:04:22.396 WinWithin[77055:70b] setting movie path: 
+2014-08-20 07:04:22.404 WinWithin[77055:70b] setting movie path: 
+2014-08-20 07:04:22.411 WinWithin[77055:70b] setting movie path: 
+2014-08-20 07:04:22.420 WinWithin[77055:70b] setting movie path: 
+2014-08-20 07:04:22.427 WinWithin[77055:70b] setting movie path: 
+2014-08-20 07:04:22.446 WinWithin[77055:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+Aug 20 07:12:07 Mattiass-Macbook-Pro.local WinWithin[77055] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:12:07 Mattiass-Macbook-Pro.local WinWithin[77055] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:12:07 Mattiass-Macbook-Pro.local WinWithin[77055] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:12:07 Mattiass-Macbook-Pro.local WinWithin[77055] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:12:07 Mattiass-Macbook-Pro.local WinWithin[77055] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:12:07 Mattiass-Macbook-Pro.local WinWithin[77055] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:12:07 Mattiass-Macbook-Pro.local WinWithin[77055] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:12:07 Mattiass-Macbook-Pro.local WinWithin[77055] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-20 07:12:20.519 WinWithin[78489:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 07:12:20.525 WinWithin[78489:70b] Unlimited access to network resources
+2014-08-20 07:12:20.528 WinWithin[78489:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-20 07:12:20.734 WinWithin[78489:70b] Resetting plugins due to page load.
+2014-08-20 07:12:20.890 WinWithin[78489:70b] setting movie path: 
+2014-08-20 07:12:20.899 WinWithin[78489:70b] setting movie path: 
+2014-08-20 07:12:20.907 WinWithin[78489:70b] setting movie path: 
+2014-08-20 07:12:20.915 WinWithin[78489:70b] setting movie path: 
+2014-08-20 07:12:20.923 WinWithin[78489:70b] setting movie path: 
+2014-08-20 07:12:20.930 WinWithin[78489:70b] setting movie path: 
+2014-08-20 07:12:20.938 WinWithin[78489:70b] setting movie path: 
+2014-08-20 07:12:20.946 WinWithin[78489:70b] setting movie path: 
+2014-08-20 07:12:20.950 WinWithin[78489:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+Aug 20 07:20:30 Mattiass-Macbook-Pro.local WinWithin[78489] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:20:30 Mattiass-Macbook-Pro.local WinWithin[78489] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:20:30 Mattiass-Macbook-Pro.local WinWithin[78489] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:20:30 Mattiass-Macbook-Pro.local WinWithin[78489] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:20:30 Mattiass-Macbook-Pro.local WinWithin[78489] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:20:30 Mattiass-Macbook-Pro.local WinWithin[78489] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:20:30 Mattiass-Macbook-Pro.local WinWithin[78489] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:20:30 Mattiass-Macbook-Pro.local WinWithin[78489] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-20 07:20:42.467 WinWithin[79977:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 07:20:42.473 WinWithin[79977:70b] Unlimited access to network resources
+2014-08-20 07:20:42.476 WinWithin[79977:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-20 07:20:42.666 WinWithin[79977:70b] Resetting plugins due to page load.
+2014-08-20 07:20:42.846 WinWithin[79977:70b] setting movie path: 
+2014-08-20 07:20:42.857 WinWithin[79977:70b] setting movie path: 
+2014-08-20 07:20:42.866 WinWithin[79977:70b] setting movie path: 
+2014-08-20 07:20:42.874 WinWithin[79977:70b] setting movie path: 
+2014-08-20 07:20:42.883 WinWithin[79977:70b] setting movie path: 
+2014-08-20 07:20:42.892 WinWithin[79977:70b] setting movie path: 
+2014-08-20 07:20:42.899 WinWithin[79977:70b] setting movie path: 
+2014-08-20 07:20:42.908 WinWithin[79977:70b] setting movie path: 
+2014-08-20 07:20:42.933 WinWithin[79977:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+Aug 20 07:21:32 Mattiass-Macbook-Pro.local WinWithin[79977] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:21:32 Mattiass-Macbook-Pro.local WinWithin[79977] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:21:32 Mattiass-Macbook-Pro.local WinWithin[79977] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:21:32 Mattiass-Macbook-Pro.local WinWithin[79977] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:21:32 Mattiass-Macbook-Pro.local WinWithin[79977] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:21:32 Mattiass-Macbook-Pro.local WinWithin[79977] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:21:32 Mattiass-Macbook-Pro.local WinWithin[79977] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:21:32 Mattiass-Macbook-Pro.local WinWithin[79977] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-20 07:21:43.818 WinWithin[80361:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 07:21:43.824 WinWithin[80361:70b] Unlimited access to network resources
+2014-08-20 07:21:43.826 WinWithin[80361:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-20 07:21:43.970 WinWithin[80361:70b] Resetting plugins due to page load.
+2014-08-20 07:21:44.116 WinWithin[80361:70b] setting movie path: 
+2014-08-20 07:21:44.125 WinWithin[80361:70b] setting movie path: 
+2014-08-20 07:21:44.133 WinWithin[80361:70b] setting movie path: 
+2014-08-20 07:21:44.142 WinWithin[80361:70b] setting movie path: 
+2014-08-20 07:21:44.150 WinWithin[80361:70b] setting movie path: 
+2014-08-20 07:21:44.158 WinWithin[80361:70b] setting movie path: 
+2014-08-20 07:21:44.169 WinWithin[80361:70b] setting movie path: 
+2014-08-20 07:21:44.176 WinWithin[80361:70b] setting movie path: 
+2014-08-20 07:21:44.181 WinWithin[80361:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+Aug 20 07:22:00 Mattiass-Macbook-Pro.local WinWithin[80361] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:22:00 Mattiass-Macbook-Pro.local WinWithin[80361] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:22:00 Mattiass-Macbook-Pro.local WinWithin[80361] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:22:00 Mattiass-Macbook-Pro.local WinWithin[80361] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:22:00 Mattiass-Macbook-Pro.local WinWithin[80361] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:22:00 Mattiass-Macbook-Pro.local WinWithin[80361] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:22:00 Mattiass-Macbook-Pro.local WinWithin[80361] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:22:00 Mattiass-Macbook-Pro.local WinWithin[80361] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-20 07:22:16.432 WinWithin[80679:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 07:22:16.438 WinWithin[80679:70b] Unlimited access to network resources
+2014-08-20 07:22:16.441 WinWithin[80679:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-20 07:22:16.601 WinWithin[80679:70b] Resetting plugins due to page load.
+2014-08-20 07:22:16.778 WinWithin[80679:70b] setting movie path: 
+2014-08-20 07:22:16.788 WinWithin[80679:70b] setting movie path: 
+2014-08-20 07:22:16.796 WinWithin[80679:70b] setting movie path: 
+2014-08-20 07:22:16.804 WinWithin[80679:70b] setting movie path: 
+2014-08-20 07:22:16.812 WinWithin[80679:70b] setting movie path: 
+2014-08-20 07:22:16.820 WinWithin[80679:70b] setting movie path: 
+2014-08-20 07:22:16.828 WinWithin[80679:70b] setting movie path: 
+2014-08-20 07:22:16.837 WinWithin[80679:70b] setting movie path: 
+2014-08-20 07:22:16.858 WinWithin[80679:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+Aug 20 07:22:26 Mattiass-Macbook-Pro.local WinWithin[80679] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:22:26 Mattiass-Macbook-Pro.local WinWithin[80679] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:22:26 Mattiass-Macbook-Pro.local WinWithin[80679] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:22:26 Mattiass-Macbook-Pro.local WinWithin[80679] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:22:26 Mattiass-Macbook-Pro.local WinWithin[80679] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:22:26 Mattiass-Macbook-Pro.local WinWithin[80679] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:22:26 Mattiass-Macbook-Pro.local WinWithin[80679] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:22:26 Mattiass-Macbook-Pro.local WinWithin[80679] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-20 07:22:36.679 WinWithin[80964:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 07:22:36.690 WinWithin[80964:70b] Unlimited access to network resources
+2014-08-20 07:22:36.693 WinWithin[80964:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-20 07:22:36.802 WinWithin[80964:70b] Resetting plugins due to page load.
+2014-08-20 07:22:36.949 WinWithin[80964:70b] setting movie path: 
+2014-08-20 07:22:36.959 WinWithin[80964:70b] setting movie path: 
+2014-08-20 07:22:36.966 WinWithin[80964:70b] setting movie path: 
+2014-08-20 07:22:36.974 WinWithin[80964:70b] setting movie path: 
+2014-08-20 07:22:36.983 WinWithin[80964:70b] setting movie path: 
+2014-08-20 07:22:36.992 WinWithin[80964:70b] setting movie path: 
+2014-08-20 07:22:37.001 WinWithin[80964:70b] setting movie path: 
+2014-08-20 07:22:37.010 WinWithin[80964:70b] setting movie path: 
+2014-08-20 07:22:37.015 WinWithin[80964:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+Aug 20 07:25:37 Mattiass-Macbook-Pro.local WinWithin[80964] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:25:37 Mattiass-Macbook-Pro.local WinWithin[80964] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:25:37 Mattiass-Macbook-Pro.local WinWithin[80964] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:25:37 Mattiass-Macbook-Pro.local WinWithin[80964] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:25:37 Mattiass-Macbook-Pro.local WinWithin[80964] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:25:37 Mattiass-Macbook-Pro.local WinWithin[80964] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:25:37 Mattiass-Macbook-Pro.local WinWithin[80964] <Error>: CGImageCreate: invalid image size: 0 x 0.
+Aug 20 07:25:37 Mattiass-Macbook-Pro.local WinWithin[80964] <Error>: CGImageCreate: invalid image size: 0 x 0.
+2014-08-20 07:25:48.382 WinWithin[81674:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 07:25:48.388 WinWithin[81674:70b] Unlimited access to network resources
+2014-08-20 07:25:48.390 WinWithin[81674:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-20 07:25:48.578 WinWithin[81674:70b] Resetting plugins due to page load.
+2014-08-20 07:25:48.750 WinWithin[81674:70b] setting movie path: 
+2014-08-20 07:25:48.762 WinWithin[81674:70b] setting movie path: 
+2014-08-20 07:25:48.772 WinWithin[81674:70b] setting movie path: 
+2014-08-20 07:25:48.781 WinWithin[81674:70b] setting movie path: 
+2014-08-20 07:25:48.789 WinWithin[81674:70b] setting movie path: 
+2014-08-20 07:25:48.798 WinWithin[81674:70b] setting movie path: 
+2014-08-20 07:25:48.807 WinWithin[81674:70b] setting movie path: 
+2014-08-20 07:25:48.817 WinWithin[81674:70b] setting movie path: 
+2014-08-20 07:25:48.821 WinWithin[81674:70b] Finished load of: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/index.html
+2014-08-20 07:26:17.392 WinWithin[81674:70b] setting movie path: file:///Users/mattiasforsberg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CFD43583-B634-42A2-930E-9D9AE0DD424E/WinWithin.app/www/INTRODUKTION.mp3

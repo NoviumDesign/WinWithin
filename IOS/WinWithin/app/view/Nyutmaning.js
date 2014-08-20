@@ -49,8 +49,10 @@ Ext.define('WinWithin.view.Nyutmaning', {
             },
             data: listData,
             listeners: {
-                disclose: { fn: this.onDisclose, scope: this }
-            }
+                    scope: this,
+                    //disclose: this.onDisclose,
+                    itemtap: this.onTap
+                }
         };
         
         var panel = {
@@ -65,9 +67,12 @@ Ext.define('WinWithin.view.Nyutmaning', {
         this.add([panel]);
     
     },
-    onDisclose: function (list, record, target, index, evt, options) {
+    onTap: function (list, index, target, record, evt, options) {
         this.fireEvent('gotoNewChallange', this, record);
     },
+    // onDisclose: function (list, record, target, index, evt, options) {
+    //     this.fireEvent('gotoNewChallange', this, record);
+    // },
     onMenu: function () {
         this.fireEvent("backToUtmaningar", this);
     },

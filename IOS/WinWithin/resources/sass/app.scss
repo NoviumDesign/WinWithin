@@ -97,3 +97,19 @@ h1 {
   font-weight: bold;
   margin-bottom: 13px;
 }
+.x-list .x-list-item.x-list-item-tpl .x-innerhtml {
+    padding: 0;
+}
+.negtankList, .bevisList, .problemList {
+    padding:0.7em 1em;
+    color: #FFF;
+}
+.negtankList {
+    background: rgb(123, 175, 154);
+}
+.bevisList {
+    background: rgb(73, 91, 106);
+}
+.problemList {
+    background: rgb(144, 95, 121);
+}

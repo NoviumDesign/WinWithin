@@ -50,7 +50,7 @@ Ext.define('WinWithin.view.Utmaningar', {
         
         Ext.getStore('Negtank').load();
         Ext.getStore('Negtank').each(function(rec) {
-            listData.push({namnge: rec.get('namnge'), model: 'Negtank', record: rec, action: 'gotoNegTank'});
+            listData.push({namnge: rec.get('namnge'), model: 'Negtank', clss:'negtankList', record: rec, action: 'gotoNegTank'});
         });
         
         Ext.getStore('Relevant').load();
@@ -63,7 +63,7 @@ Ext.define('WinWithin.view.Utmaningar', {
             if (fields[0].relElGrund == 'grundlos') {
                 title += ' (Grundlös)';
             }
-            listData.push({namnge: title, model: 'Relevant', record: rec, action: 'gotoRelevant'});
+            listData.push({namnge: title, model: 'Relevant', clss:'bevisList', record: rec, action: 'gotoRelevant'});
         });
         Ext.getStore('Bevis').load();
         Ext.getStore('Bevis').each(function(rec) {
@@ -74,13 +74,14 @@ Ext.define('WinWithin.view.Utmaningar', {
             if (rec.get('relElGrund') == 'grundlos') {
                 title += ' (Grundlös)';
             }
-            listData.push({namnge: title, model: 'Bevis', record: rec, action: 'gotoBevis'});
+            listData.push({namnge: title, model: 'Bevis', clss:'bevisList', record: rec, action: 'gotoBevis'});
         });
         
         Ext.getStore('Problem').load();
         Ext.getStore('Problem').each(function(rec) {
-            listData.push({namnge: rec.get('beskriv'), model: 'Problem', record: rec, action: 'gotoProblem'});
+            listData.push({namnge: rec.get('beskriv'), model: 'Problem', clss:'problemList', record: rec, action: 'gotoProblem'});
         });
+        
         if (listData.length > 0) {
 
             var utmaningarlist = {
@@ -106,7 +107,7 @@ Ext.define('WinWithin.view.Utmaningar', {
             }
 
             this.add([panel]);
-        }
+        } 
     },
     // onDisclose: function (list, record, target, index, evt, options) {
     //     this.fireEvent('gotoEdit', this, record);

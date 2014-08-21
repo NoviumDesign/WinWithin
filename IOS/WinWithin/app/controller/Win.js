@@ -762,9 +762,33 @@ Ext.define("WinWithin.controller.Win", {
     },
     gotoUtmaningar: function() {
         this.stopAllPlay.call(this);
-        var utmaningar = this.getUtmaningar();
-        utmaningar.refresh();
-        Ext.Viewport.animateActiveItem(utmaningar, { type: 'slide', direction: 'left' });
+        
+        var listData = [];
+        Ext.getStore('Negtank').load();
+        Ext.getStore('Negtank').each(function(rec) {
+            listData.push(rec);
+        });
+        Ext.getStore('Relevant').load();
+        Ext.getStore('Relevant').each(function(rec) {
+            listData.push(rec);
+        });
+        Ext.getStore('Bevis').load();
+        Ext.getStore('Bevis').each(function(rec) {
+            listData.push(rec);
+        });
+        Ext.getStore('Problem').load();
+        Ext.getStore('Problem').each(function(rec) {
+            listData.push(rec);
+        });
+        if (listData.length > 0) {
+            var utmaningar = this.getUtmaningar();
+            utmaningar.refresh();
+            Ext.Viewport.animateActiveItem(utmaningar, { type: 'slide', direction: 'left' });
+        } else {
+            var nyutmaning = this.getNyutmaning();
+            Ext.Viewport.animateActiveItem(nyutmaning, { type: 'slide', direction: 'left' });
+        }
+        
     },
     backToUtmaningar: function() {
         this.stopAllPlay.call(this);

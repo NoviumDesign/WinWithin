@@ -335,7 +335,6 @@ Ext.define("WinWithin.controller.Win", {
         Ext.Viewport.animateActiveItem(nyutmaning, { type: 'slide', direction: 'left' });
     },
     gotoNewChallange: function() {
-        console.log(arguments);
         if (arguments[1] && arguments[1].hasOwnProperty('data')) {
             var chall = arguments[1].data.namnge;
             switch(chall) {

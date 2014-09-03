@@ -89,7 +89,7 @@ Ext.define('WinWithin.view.Kapitel2form2', {
         };
 
         var negativTanke = {
-            xtype: 'textareafield',
+            xtype: 'autoHeightTextArea',
             name: 'negTanke',
             label: '',
             value: record.get('negTanke'),
@@ -148,7 +148,7 @@ Ext.define('WinWithin.view.Kapitel2form2', {
         // Loop through bevis
         for (var key in this.relBevis) {
             bevisPanel.add({
-                xtype: 'textareafield',
+                xtype: 'autoHeightTextArea',
                 name: 'relBevis'+key,
                 style: {
                     'background': '#FFF'
@@ -171,7 +171,7 @@ Ext.define('WinWithin.view.Kapitel2form2', {
             handler: function(){
                 key = this.relBevis.push('') -1;
                 bevisPanel.add({
-                    xtype: 'textareafield',
+                    xtype: 'autoHeightTextArea',
                     name: 'relBevis'+key,
                     style: {
                         'background': '#FFF'
@@ -195,7 +195,7 @@ Ext.define('WinWithin.view.Kapitel2form2', {
         // Loop through bevis
         for (var key in this.grundBevis) {
             grundPanel.add({
-                xtype: 'textareafield',
+                xtype: 'autoHeightTextArea',
                 name: 'grundBevis'+key,
                 style: {
                     'background': '#FFF'
@@ -217,7 +217,7 @@ Ext.define('WinWithin.view.Kapitel2form2', {
             handler: function(){
                 key = this.grundBevis.push('') -1;
                 grundPanel.add({
-                    xtype: 'textareafield',
+                    xtype: 'autoHeightTextArea',
                     name: 'grundBevis'+key,
                     style: {
                         'background': '#FFF'
@@ -295,6 +295,20 @@ Ext.define('WinWithin.view.Kapitel2form2', {
         ]);
         
         this.add([
+            // Clickprotection
+            {
+                xtype: 'component',
+                name: 'clickProtection',
+                style: {
+                    'position': 'absolute',
+                    'top': '0',
+                    'left': '0',
+                    'background': 'rgba(0, 0, 0, 0)',
+                    'width': '100%',
+                    'height': '100%'
+                },
+                hidden: false
+            },
             // Fader
             {
                 xtype: 'component',
@@ -344,6 +358,14 @@ Ext.define('WinWithin.view.Kapitel2form2', {
             }
         ]);
         this.currentPanel = item._itemId;
+
+        setTimeout(function() {
+            this.down('[name=clickProtection]').hide({
+                type: 'fadeOut',
+                duration: 1,
+                delay: 0
+            });
+        }.bind(this), 500);
     },
     // Tap menu takes you back
     onMenu: function () {

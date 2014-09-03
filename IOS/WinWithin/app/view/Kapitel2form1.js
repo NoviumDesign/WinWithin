@@ -85,7 +85,7 @@ Ext.define('WinWithin.view.Kapitel2form1', {
             };
 
             var negativTanke = {
-                xtype: 'textareafield',
+                xtype: 'autoHeightTextArea',
                 name: 'negTanke',
                 label: '',
                 value: fiel[key].negTanke,
@@ -181,6 +181,20 @@ Ext.define('WinWithin.view.Kapitel2form1', {
             ]);
         }
         this.add([
+            // Clickprotection
+            {
+                xtype: 'component',
+                name: 'clickProtection',
+                style: {
+                    'position': 'absolute',
+                    'top': '0',
+                    'left': '0',
+                    'background': 'rgba(0, 0, 0, 0)',
+                    'width': '100%',
+                    'height': '100%'
+                },
+                hidden: false
+            },
             // Fader
             {
                 xtype: 'component',
@@ -230,6 +244,14 @@ Ext.define('WinWithin.view.Kapitel2form1', {
             }
         ]);
         this.currentPanel = item._itemId;
+
+        setTimeout(function() {
+            this.down('[name=clickProtection]').hide({
+                type: 'fadeOut',
+                duration: 1,
+                delay: 0
+            });
+        }.bind(this), 500);
     },
     // Tap menu takes you back
     onMenu: function () {

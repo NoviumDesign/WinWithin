@@ -83,7 +83,7 @@ Ext.define('WinWithin.view.Kapitel3form', {
         };
         
         var negativTanke = {
-            xtype: 'textareafield',
+            xtype: 'autoHeightTextArea',
             name: 'beskriv',
             label: '',
             value: record.get('beskriv'),
@@ -191,7 +191,7 @@ Ext.define('WinWithin.view.Kapitel3form', {
                 },
                 items: [
                     {
-                        xtype: 'textareafield',
+                        xtype: 'autoHeightTextArea',
                         name: 'forslag'+key,
                         style: {
                             'background': '#FFF'
@@ -250,7 +250,7 @@ Ext.define('WinWithin.view.Kapitel3form', {
                     },
                     items: [
                         {
-                            xtype: 'textareafield',
+                            xtype: 'autoHeightTextArea',
                             name: 'forslag'+key,
                             style: {
                                 'background': '#FFF'
@@ -265,6 +265,20 @@ Ext.define('WinWithin.view.Kapitel3form', {
         });
         
         var item = this.add([
+            // Clickprotection
+            {
+                xtype: 'component',
+                name: 'clickProtection',
+                style: {
+                    'position': 'absolute',
+                    'top': '0',
+                    'left': '0',
+                    'background': 'rgba(0, 0, 0, 0)',
+                    'width': '100%',
+                    'height': '100%'
+                },
+                hidden: false
+            },
             // Fader
             {
                 xtype: 'component',
@@ -314,6 +328,14 @@ Ext.define('WinWithin.view.Kapitel3form', {
             }
         ]);
         this.currentPanel = item._itemId;
+
+        setTimeout(function() {
+            this.down('[name=clickProtection]').hide({
+                type: 'fadeOut',
+                duration: 1,
+                delay: 0
+            });
+        }.bind(this), 500);
     },
     // Tap menu takes you back
     onMenu: function () {

@@ -113,8 +113,12 @@ Ext.define('WinWithin.view.Utmaningar', {
     //     this.fireEvent('gotoEdit', this, record);
     // },
     onTap: function (list, index, target, record, evt, options) {
-        this.fireEvent('gotoEdit', this, record);
-        evt.stopPropagation();
+        console.log(evt);
+        setTimeout(function() {
+            this.fireEvent('gotoEdit', this, record);
+        }.bind(this), 20);
+
+        // evt.stopPropagation();
     },
     onMenu: function () {
         this.fireEvent("menuToggle", this);

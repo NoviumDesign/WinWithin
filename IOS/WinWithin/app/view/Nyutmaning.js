@@ -69,6 +69,7 @@ Ext.define('WinWithin.view.Nyutmaning', {
     },
     onTap: function (list, index, target, record, evt, options) {
         this.fireEvent('gotoNewChallange', this, record);
+        evt.stopPropagation();
     },
     // onDisclose: function (list, record, target, index, evt, options) {
     //     this.fireEvent('gotoNewChallange', this, record);

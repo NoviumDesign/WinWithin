@@ -639,6 +639,7 @@ Ext.ClassManager.addNameAlternateMappings({
     "Ext.viewport.WP"
   ],
   "WinWithin.controller.Win": [],
+  "WinWithin.form.AutoTextArea": [],
   "WinWithin.model.Avtal": [],
   "WinWithin.model.Bevis": [],
   "WinWithin.model.Negtank": [],
@@ -1381,6 +1382,9 @@ Ext.ClassManager.addNameAliasMappings({
   "Ext.viewport.Viewport": [],
   "Ext.viewport.WindowsPhone": [],
   "WinWithin.controller.Win": [],
+  "WinWithin.form.AutoTextArea": [
+    "widget.autoHeightTextArea"
+  ],
   "WinWithin.model.Avtal": [],
   "WinWithin.model.Bevis": [],
   "WinWithin.model.Negtank": [],

@@ -96,6 +96,7 @@ Ext.define('WinWithin.view.Kapitel1', {
 
     negTank: function() {
         this.fireEvent('gotoNegTank', this);
+        evt.stopPropagation();
     },
     onMenu: function () {
         this.fireEvent("menuToggle", this);

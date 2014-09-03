@@ -160,9 +160,11 @@ Ext.define('WinWithin.view.Kapitel2', {
     },
     bevis: function() {
         this.fireEvent('gotoBevis', this);
+        evt.stopPropagation();
     },
     relevant: function() {
         this.fireEvent('gotoRelevant', this);
+        evt.stopPropagation();
     },
 
     onMenu: function () {

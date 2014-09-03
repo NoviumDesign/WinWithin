@@ -16,7 +16,7 @@ Ext.application({
     requires: [
         'Ext.MessageBox'
     ],
-
+    forms: [ 'AutoTextArea'],
     views: [
         'Main', 'Introduktion', 'Kapitel1', 'Kapitel2', 'Kapitel3', 'Avslutning',
         'Utmaningar', 'Utmaningarlist', 'Kapitel1form', 'Kapitel2form1', 'Kapitel2form2', 'Kapitel3form',

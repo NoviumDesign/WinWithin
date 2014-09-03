@@ -175,6 +175,7 @@ Ext.define('WinWithin.view.Kapitel3', {
     },
     problem: function() {
         this.fireEvent('gotoProblem', this);
+        evt.stopPropagation();
     },
 
     onMenu: function () {

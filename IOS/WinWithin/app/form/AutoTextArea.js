@@ -15,6 +15,12 @@ Ext.define('WinWithin.form.AutoTextArea', {
 
         this.on({
             scope: this,
+            // focus: function() {
+                
+            //     console.log(this.up('.x-scroll-scroller'));
+            //     window.scrollTo(0,0);
+
+            // },
             keyup: function (textarea) {
                 textarea.adjustHeight(textarea);
             },

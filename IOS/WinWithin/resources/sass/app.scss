@@ -45,13 +45,27 @@ html,body{position:relative;width:100%;height:100%}.x-fullscreen{position:absolu
     border:0px;
     background: #333333;
 }
-.x-form-fieldset .x-form-fieldset-inner, .x-field-textarea {
-    border: 0;
-    border-bottom: 1px solid #d9d9d9;
-}
+// .x-field-textarea {
+//     border: 0;
+//     border-bottom: 1px solid #d9d9d9;
+// }
 
-.x-field-textarea:first {
-  border-top: 1px solid #d9d9d9;
+// .x-field-textarea:first {
+//   border-top: 1px solid #d9d9d9;
+// }
+
+.x-field-textarea, .x-field-text, .borderrr{
+    border-bottom: 1px solid #d9d9d9 !important;
+}
+.x-field-textarea:first-child, .x-field-text:first-child, .borderrr:first-child {
+    border-top: 1px solid #d9d9d9;
+}
+.no-border {
+    border:0 !important;
+    border-top:0 !important;
+}
+.x-form-fieldset .x-form-fieldset-inner {
+    border:0 !important;
 }
 .x-container.x-field-textarea.x-field.x-label-align-left.x-field-clearable.x-form-label-nowrap {
     // border-bottom: 1px solid #d9d9d9;
@@ -75,14 +89,25 @@ html,body{position:relative;width:100%;height:100%}.x-fullscreen{position:absolu
 .buttonGreen {
     background: #6fbb7d!important;
 }
-.checkGrey {
-    background: url('../images/checkGrey.png')!important;
-    background-size: 18px 18px;
+// .checkGrey {
+//     background: url('../images/checkGrey.png')!important;
+//     background-size: 18px 18px;
+// }
+// .checkGreen {
+//     background: url('../images/check.png')!important;
+//     background-size: 18px 18px;
+// }
+// 
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
 }
-.checkGreen {
-    background: url('../images/check.png')!important;
-    background-size: 18px 18px;
+
+.clearfix:after {
+    clear: both;
 }
+
 #godkannBtn .x-button-label {
     color: rgb(111, 187, 125);
 }

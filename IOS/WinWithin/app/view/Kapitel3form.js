@@ -157,20 +157,19 @@ Ext.define('WinWithin.view.Kapitel3form', {
         
 
         for (var key in this.forslag) {
-            var checker = new Ext.Button({
+            var checker = new Ext.field.Checkbox({
                 id: 'forslagCheck'+key,
-                cls: 'checkGrey',
+                cls: 'checkGrey no-border',
                 style: {
-                    'position': 'absolute',
-                    'top': '3px',
-                    'right': '3px',
-                    'width': '18px',
-                    'height': '18px',
-                    'box-shadow': 'none',
-                    '-webkit-box-shadow': 'none'
+                    'width'      : '15%',
+                    'float'      : 'left',
+                    'position'   : 'absolute',
+                    'top'        : '50%',
+                    'right'      : '5px',
+                    'margin-top' : '-21px'
                 },
                 handler: function(el, ev) {
-                    if(el.getCls() == 'checkGrey') {
+                    if(el.up('.x-container').getCls() == 'checkGrey') {
                         for (var c in this.valda) {
                             this.valda[c].setCls('checkGrey');
                         }
@@ -186,15 +185,20 @@ Ext.define('WinWithin.view.Kapitel3form', {
             this.valda.push(checker);
             forslagPanel.add(
                 { xtype: 'panel',
+                cls: 'clearfix borderrr',
                 style: {
-                    'position': 'relative'
+                    'position': 'relative',
+                    'background': '#FFF',
                 },
                 items: [
                     {
                         xtype: 'autoHeightTextArea',
                         name: 'forslag'+key,
+                        cls: 'no-border',
                         style: {
-                            'background': '#FFF'
+                            'background': '#FFF',
+                            'width': '85%',
+                            'float': 'left'
                         },
                         label: '',
                         value: this.forslag[key],

@@ -11,6 +11,7 @@ Ext.define('WinWithin.view.Kapitel1form', {
         this.backEvent = undefined;
         this.currentPanel = undefined;
         // Unique for every view...
+        
         var topToolbar = {
             xtype: "toolbar",
             docked: 'top',
@@ -231,6 +232,6 @@ Ext.define('WinWithin.view.Kapitel1form', {
     },
     config: {
         fullscreen: true,
-        scrollable: true
+        scrollable: false
     }
 });

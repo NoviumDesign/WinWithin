@@ -80,9 +80,18 @@
      */
     "css": [
         {
+            "path": "resources/css/android.css",
+            "platform": ["android", "firefox"],
+            "theme": "Android",
+            "update": "full"
+        },
+        {
             "path": "resources/css/app.css",
-            "update": "delta"
+            "platform": ["chrome", "safari", "ios"],
+            "theme": "ios",
+            "update": "full"
         }
+        
     ],
 
     /**

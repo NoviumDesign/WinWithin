@@ -82,7 +82,7 @@
         {
             "path": "resources/css/android.css",
             "platform": ["android", "firefox"],
-            "theme": "Android",
+            "theme": "android",
             "update": "full"
         },
         {
